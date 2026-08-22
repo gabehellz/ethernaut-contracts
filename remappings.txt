@@ -1,0 +1,13 @@
+ds-test/=lib/ethernaut/contracts/lib/openzeppelin-contracts-upgradeable/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/ethernaut/contracts/lib/openzeppelin-contracts-upgradeable/lib/erc4626-tests/
+ethernaut/=lib/ethernaut/
+forge-std/=lib/forge-std/src/
+halmos-cheatcodes/=lib/ethernaut/contracts/lib/openzeppelin-contracts-v5.4.0/lib/halmos-cheatcodes/src/
+openzeppelin-contracts-06/=lib/ethernaut/contracts/lib/openzeppelin-contracts-06/contracts/
+openzeppelin-contracts-08/=lib/ethernaut/contracts/lib/openzeppelin-contracts-08/contracts/
+openzeppelin-contracts-upgradeable/=lib/ethernaut/contracts/lib/openzeppelin-contracts-upgradeable/
+openzeppelin-contracts-v4.6.0/=lib/ethernaut/contracts/lib/openzeppelin-contracts-v4.6.0/
+openzeppelin-contracts-v5.4.0/=lib/ethernaut/contracts/lib/openzeppelin-contracts-v5.4.0/
+rlp/=lib/ethernaut/contracts/src/helpers/lib/rlp/
+trie/=lib/ethernaut/contracts/src/helpers/lib/trie/
+utils/=lib/ethernaut/contracts/src/helpers/lib/utils/
