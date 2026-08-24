@@ -1,4 +1,7 @@
 {
+  "lib/ethernaut": {
+    "rev": "d05643a40aa98c45d66247c69ffceab8f44dd8cb"
+  },
   "lib/forge-std": {
     "tag": {
       "name": "v1.16.2",
